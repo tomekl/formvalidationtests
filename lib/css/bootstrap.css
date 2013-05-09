@@ -1,4 +1,3 @@
-/*!
  * Bootstrap v2.3.1
  *
  * Copyright 2012 Twitter, Inc
@@ -5323,7 +5322,7 @@ input[type="submit"].btn.btn-mini {
 }
 
 .tooltip-inner {
-  max-width: 200px;
+  /*max-width: 200px;*/
   padding: 8px;
   color: #ffffff;
   text-align: center;
